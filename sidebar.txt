@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dti:home|Door43 (dti)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dti|d43-dti repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dti/archive/master.zip|d43-dti.zip]]
+
+**Recent Changes**
+{{changes>ns = dti}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dti|Ethnologue data]]
+
